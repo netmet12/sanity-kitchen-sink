@@ -7923,6 +7923,10 @@ same-origin@^0.1.1:
   version "0.1.1"
   resolved "https://registry.npmjs.org/same-origin/-/same-origin-0.1.1.tgz#c2287d3192577df517acbbd6d1451a9c3c3914f5"
 
+sanity-plugin-asset-source-cloudinary@^0.1.0:
+  version "0.1.0"
+  resolved "https://registry.npmjs.org/sanity-plugin-asset-source-cloudinary/-/sanity-plugin-asset-source-cloudinary-0.1.0.tgz#bb4171abb10ffc74f86a021a774d8b3ff21d07d4"
+
 sanity-plugin-asset-source-thispersondoesnotexist@0.0.1:
   version "0.0.1"
   resolved "https://registry.npmjs.org/sanity-plugin-asset-source-thispersondoesnotexist/-/sanity-plugin-asset-source-thispersondoesnotexist-0.0.1.tgz#dc998122d94618e85a91626462c60c590bcee270"
